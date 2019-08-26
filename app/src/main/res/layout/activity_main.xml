@@ -8,7 +8,10 @@
     tools:context=".MainActivity">
 
     <Button
-        android:text="Shape Drawable"
+        android:textAllCaps="false"
+        android:textColor="#ffff"
+        android:background="@drawable/background_button_shape"
+        android:text="Sign up with Facebook"
         android:layout_centerInParent="true"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content" />
