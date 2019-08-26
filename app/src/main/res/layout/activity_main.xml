@@ -38,6 +38,7 @@
     <!--</LinearLayout>-->
 
     <Button
+        android:background="@drawable/background_button_statelist"
         android:text="State List"
         android:id="@+id/buttonStateList"
         android:layout_width="wrap_content"
