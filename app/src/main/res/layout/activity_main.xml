@@ -45,13 +45,14 @@
         <!--android:layout_width="wrap_content"-->
         <!--android:layout_height="wrap_content" />-->
     <CheckBox
+        android:button="@drawable/background_checkbox_statelist"
         android:textSize="20sp"
         android:text="Android"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content" />
     <CheckBox
         android:textSize="20sp"
-        android:text="Android"
+        android:text="React native"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content" />
 </LinearLayout>
